@@ -26,7 +26,10 @@ How to get started with django and celery ?
   
   BROKER_URL = 'django://'
   ```
-  and this line also, 
+  <b>The first two lines are always needed. Line 3 configures Celery to use its Django broker.
+  Important: Never use the Django broker in production. We are only using it here to save time in this tutorial.     In production you'll want to use RabbitMQ, or maybe Redis.</b>
+  
+  and also add this line to settings.py, 
   
   ```
   CELERY_IMPORTS=("demo.tasks")
