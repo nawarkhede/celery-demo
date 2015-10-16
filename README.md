@@ -1,4 +1,7 @@
 # celery-demo
+
+source : https://www.caktusgroup.com/blog/2014/06/23/scheduling-tasks-celery/
+
 How to get started with django and celery ? 
 
 1. create virtualenv and activate it.
