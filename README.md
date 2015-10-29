@@ -54,7 +54,8 @@ from celery import task
 ```
 python manage.py celery worker --loglevel=info
 ```
-    <br> keep it running </b>
+
+ **keep it running.**
     
 9. open django shell and try the following code,
 ```
@@ -76,7 +77,9 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 [2015-10-16 08:17:54,372: INFO/MainProcess] Task demo.tasks.add[e9405e8a-66b5-4e5f-9662-38abb2118bd3] succeeded in 0.109354613s: 5
 ```
-11. Done (y)
+11. Done.
+
+Page formatted using : https://stackedit.io/
 
   
   
