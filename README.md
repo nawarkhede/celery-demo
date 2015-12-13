@@ -4,8 +4,7 @@ source : https://www.caktusgroup.com/blog/2014/06/23/scheduling-tasks-celery/
 
 How to get started with django and celery ? 
 
-# create virtualenv and activate it.
-# install the following stuff,
+**create virtualenv and activate it and install the following stuff,**
 ```
 pip install django
 pip install django-celery
