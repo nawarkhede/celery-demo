@@ -78,4 +78,4 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 [2015-10-16 08:17:54,372: INFO/MainProcess] Task demo.tasks.add[e9405e8a-66b5-4e5f-9662-38abb2118bd3] succeeded in 0.109354613s: 5
 ```
-# Done.
+**Done**
